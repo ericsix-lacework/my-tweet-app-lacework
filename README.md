@@ -1,4 +1,6 @@
 # my-tweet-app
+
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/7efc0e35-ebca-4cc8-82e2-3043b60f7655.svg)](https://app.soluble.cloud/repos/details/github.com/ericsix-lacework/my-tweet-app-lacework)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/cb41d3ff-b553-4c3a-9e59-b4fabc8bc511.svg)](https://app.soluble.cloud/repos/details/github.com/ericsix-lacework/my-tweet-app-lacework)  
 Docker demo example application
 
 ![Picture of the example application](https://github.com/automatecloud/my-tweet-app-lacework/blob/master/Pictures/picturenew.png?raw=true)
